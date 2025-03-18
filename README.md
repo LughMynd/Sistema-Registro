@@ -2,4 +2,4 @@
 -Estado: En contrucción.
 Ejemplo de uso:
 Para ejectuar coloque:
-```hola```
+´´´npm insall react```
