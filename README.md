@@ -2,4 +2,7 @@
 -Estado: En contrucción.
 Ejemplo de uso:
 Para ejectuar coloque:
-´´´npm insall react```
+
+```npm install react```
+
+sistema de registro 2
